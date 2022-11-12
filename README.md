@@ -4,3 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+<h4 align="center">Views of all repositories (updated daily)</h4>
+<p align="center">
+	<a href="https://github.com/mithereal/my_github_profile_views_counter">
+		<img width="135em" src="https://github.com/mithereal/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
+	</a>
+</p>
