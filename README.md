@@ -8,10 +8,3 @@
 <p align="center">
 	<img width="450em" src="https://api.githubtrends.io/user/svg/mithereal/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
 </p>
-
-<h4 align="center">Views of all repositories (updated daily)</h4>
-<p align="center">
-	<a href="https://github.com/mithereal/my_github_profile_views_counter">
-		<img width="135em" src="https://github.com/mithereal/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
-	</a>
-</p>
