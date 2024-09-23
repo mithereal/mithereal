@@ -1,4 +1,4 @@
-name: Generate General
+name: Generate Medias
 
 on:
   # run automatically every 6 hours
