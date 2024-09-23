@@ -1,4 +1,4 @@
-name: generate achievements
+name: Generate Achievements
 
 on:
   # run automatically every 6 hours
