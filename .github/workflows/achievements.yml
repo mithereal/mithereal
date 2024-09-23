@@ -1,0 +1,36 @@
+name: generate achievements
+
+on:
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */8 * * *"
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+      - master
+
+
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+
+      - name: 🦑 Achievements
+        if: ${{ success() || failure() }}
+        uses: mithereal/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_fortune: yes
