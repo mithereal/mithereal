@@ -1108,7 +1108,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 302kb of code in 275 edited files across 140 commits over last 13 days</small>
+                <small>estimation from 394kb of code in 322 edited files across 148 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1126,8 +1126,8 @@
                                 Elixir
                             </div>
                             <small>
-                                <div>6.90k lines</div>
-                                <div>295 kB</div>
+                                <div>7.94k lines</div>
+                                <div>387 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
