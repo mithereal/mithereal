@@ -1113,14 +1113,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 477kb of code in 300 edited files across 36 commits over last 14 days</small>
+                <small>estimation from 465kb of code in 292 edited files across 32 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.0838776905063" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="446.0838776905063" y="0" width="13.916122309493664" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.44036449887267" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="445.44036449887267" y="0" width="14.559635501127337" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1132,9 +1132,9 @@
                                 Elixir
                             </div>
                             <small>
-                                <div>7.96k lines</div>
-                                <div>259 kB</div>
-                                <div>96.97%</div>
+                                <div>7.70k lines</div>
+                                <div>247 kB</div>
+                                <div>96.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1147,7 +1147,7 @@
                             <small>
                                 <div>228 lines</div>
                                 <div>8.10 kB</div>
-                                <div>3.03%</div>
+                                <div>3.17%</div>
                             </small>
                         </div>
                     </section>
