@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1130,14 +1130,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.41mb of code in 794 edited files across 56 commits over last 10 days</small>
+                <small>estimation from 5.16mb of code in 3794 edited files across 76 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="450.0084469651261" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="450.0084469651261" y="0" width="9.991553034873897" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="452.690518187948" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="452.690518187948" y="0" width="7.309481812051985" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1149,9 +1149,9 @@
                                 Elixir
                             </div>
                             <small>
-                                <div>22.7k lines</div>
-                                <div>729 kB</div>
-                                <div>97.83%</div>
+                                <div>108k lines</div>
+                                <div>3.51 MB</div>
+                                <div>98.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1162,9 +1162,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>456 lines</div>
-                                <div>16.2 kB</div>
-                                <div>2.17%</div>
+                                <div>1.60k lines</div>
+                                <div>56.7 kB</div>
+                                <div>1.59%</div>
                             </small>
                         </div>
                     </section>
