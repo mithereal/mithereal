@@ -13,4 +13,5 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/mithereal.png" alt="TryHackMe">
 
-First Product Release - MVS 1.2 - Oscmax - 4/12/2009
+<!-- First Product Release - MVS 1.2 - Oscmax - 4/12/2009 -->
+
