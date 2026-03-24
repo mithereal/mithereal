@@ -22,7 +22,7 @@ jobs:
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@latest
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
