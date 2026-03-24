@@ -3,7 +3,7 @@
 
 ![Metrics](https://github.com/mithereal/mithereal/blob/main/github-metrics.svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mithereal&theme=tokyonight&hide_border=true&ring=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mithereal&theme=tokyonight&hide_border=true&ring=DD2727&hide_current_streak=true)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
