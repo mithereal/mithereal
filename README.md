@@ -11,6 +11,8 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+![Wakatime](https://github.com/mithereal/mithereal/blob/main/wakatime.svg)
+
 <!-- img src="https://tryhackme-badges.s3.amazonaws.com/mithereal.png" alt="TryHackMe" -->
 
 <!-- First Product Release - MVS 1.2 - Oscmax - 4/12/2009 -->
