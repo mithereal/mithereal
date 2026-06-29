@@ -3,8 +3,11 @@
 
 ![Metrics](https://github.com/mithereal/mithereal/blob/main/github-metrics.svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mithereal&theme=tokyonight&hide_border=true&ring=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mithereal&theme=tokyonight&hide_border=true&ring=DD2727&hide_current_streak=true)](https://git.io/streak-stats)
+
+![Wakatime](https://github.com/mithereal/mithereal/blob/main/wakatime.svg)
 
 <!-- img src="https://tryhackme-badges.s3.amazonaws.com/mithereal.png" alt="TryHackMe" -->
 
 <!-- First Product Release - MVS 1.2 - Oscmax - 4/12/2009 -->
+
