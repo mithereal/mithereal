@@ -24,7 +24,7 @@ jobs:
 
       - name: 🦑 Medias
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics
         with:
           filename: medias.svg
           token: ${{ secrets.METRICS_TOKEN }}
