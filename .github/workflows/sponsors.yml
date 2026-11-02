@@ -22,7 +22,7 @@ jobs:
 
       - name: 🦑 Sponsors
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics
         with:
           filename: sponsors.svg
           token: ${{ secrets.METRICS_TOKEN }}
