@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: WakaTime
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics
         with:
           filename: wakatime.svg
           token: NOT_NEEDED
